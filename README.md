@@ -1,4 +1,5 @@
-javafortestersbook
+javafortestersbook_exercises 
+
 ==================
 
-Java code based on the book javafortesters
+Java code exercices based on the book javafortesters
