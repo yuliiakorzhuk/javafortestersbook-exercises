@@ -1,5 +1,5 @@
-javafortestersbook_exercises 
+javafortestersbook exercises 
 
 ==================
 
-Java code exercices based on the book javafortesters
+My java code exercices based on the book javafortesters
