@@ -5,7 +5,6 @@ import main.java.com.javafortesters.domainobject.TestAppEnv;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-//test comment
 /**
  * Created by jts on 10/16/2014.
  */
