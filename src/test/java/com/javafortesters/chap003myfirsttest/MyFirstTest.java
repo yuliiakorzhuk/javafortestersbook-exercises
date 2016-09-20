@@ -1,4 +1,4 @@
-package test;
+package com.javafortesters.chap003myfirsttest;
 
 import org.junit.*;
 import static org.junit.Assert.*;
@@ -27,5 +27,4 @@ public class MyFirstTest {
         int answer = 2*2;
         assertEquals("2*2=4", 4, answer);
     }
-
 }
