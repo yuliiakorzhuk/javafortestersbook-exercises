@@ -1,23 +1,23 @@
-package main.java.com.javafortesters.domainentities;
+package com.javafortesters.domainentities;
 
 /**
- * Created by jts on 10/18/2014.
+ * Created by julko on 11/1/16.
  */
 public class User {
-    private String username;
+    private String name;
     private String password;
 
-    public User(String username, String password){
-        this.username = username;
-        this.password = password;
-    }
-
-    public User(){
+    public User() {
         this("username", "password");
     }
 
-    public String getUsername() {
-        return username;
+    public User(String name, String password) {
+        this.name = name;
+        this.password = password;
+    }
+
+    public String getName() {
+        return name;
     }
 
     public String getPassword() {
